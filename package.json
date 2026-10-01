@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "API ejemplo práctico",
+  "keywords": [
+    "NodeJS",
+    "API"
+  ],
+  "homepage": "https://github.com/Victoriacarcat/API-NodeJS#readme",
+  "bugs": {
+    "url": "https://github.com/Victoriacarcat/API-NodeJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victoriacarcat/API-NodeJS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

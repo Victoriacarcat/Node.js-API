@@ -1,0 +1,16 @@
+{
+    "libros":[              
+        {
+            "id": 1,
+            "nombre": "Los 7 hábitos de la gente atamente efectiva",
+            "autor": "Stephen R, Covey",
+            "fechaPub": 1989
+        },
+        {
+            "id": 2,
+            "nombre": "Padre rico, padre pobre",
+            "autor": "Robert Kiyosaki",
+            "fechaPub": 1997
+        }
+    ]
+}
